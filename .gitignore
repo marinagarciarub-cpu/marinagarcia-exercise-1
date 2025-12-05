@@ -1,0 +1,5 @@
+# Archivos de configuracion de IntelliJ
+.idea/
+
+# Artefactos de compilacion de Maven
+target/
